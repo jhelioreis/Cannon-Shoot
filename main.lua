@@ -1,9 +1,4 @@
--- Corona Cannon
--- A complete remake of Ghosts vs. Monsters sample game for Corona SDK.
--- Most of the graphics made by kenney.nl
--- Please use Corona daily build 2016.2818 or later.
--- Created by Sergey Lerg for Corona Labs.
--- License - MIT.
+
 
 display.setStatusBar(display.HiddenStatusBar)
 system.activate('multitouch')
