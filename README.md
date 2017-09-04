@@ -37,7 +37,7 @@ caso nao consiga destruir os alvos com a chances disponiveis a fase atual
 será reniciada e caso consiga destruir os alvos com a chances disponiveis,
 prosseguirá para proxima fase.
 
-# Como o jogo acaba
+# Fim do jogo
 
 O jogo termina quando é concluido todas as fases.
 
