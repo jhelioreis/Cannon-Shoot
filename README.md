@@ -17,3 +17,28 @@ O jogo possui:
 
 
 
+
+
+
+
+
+
+
+
+# Objetivos especificos 
+
+Usar o canhão par destruir os alvos que estão 
+localizados no cenario e com isso passar de fase.
+
+# Regras do jogo 
+
+Cada fase terá o seu grau de dificuldade e uma certa quantidade de chances 
+caso nao consiga destruir os alvos com a chances disponiveis a fase atual 
+será reniciada e caso consiga destruir os alvos com a chances disponiveis,
+prosseguirá para proxima fase.
+
+# Como o jogo acaba
+
+O jogo termina quando é concluido todas as fases.
+
+
