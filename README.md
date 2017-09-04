@@ -2,7 +2,7 @@
 
 Projeto de jogo da disciplina Estágio I
 
-# Obejetivo
+# Objetivo
 
 Este é um jogo onde a pessoa assume o controle sobre o canhão e esmaga 
 todos os alvos que você pode encontrar.
