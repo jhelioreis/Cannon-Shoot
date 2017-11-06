@@ -1,44 +1,27 @@
-# Cannon Shoot
+# Corona Cannon
 
-Projeto de jogo da disciplina Estágio I
+This is an open source game made with Corona SDK framework.
 
-# Objetivo
+Take control over the cannon and smash all the bugs you can find!
 
-Este é um jogo onde a pessoa assume o controle sobre o canhão e esmaga 
-todos os alvos que você pode encontrar.
-Use seu dedo para apontar e colocar força.
+Use your finger to aim and to set force. 
 
-O jogo possui:
-* 10 níveis
-* 2 Locais
-* Música relaxante
+The game features:
+* 10 Levels
+* 2 Locations
+* Retina graphics
+* Relaxing music
+* Controller support
 
-# Diagrama de Navegação
+Read more about this game:
+https://coronalabs.com/blog/2016/02/02/corona-cannon-a-new-corona-sdk-sample-game/
 
+Learn more about Corona SDK:
+https://coronalabs.com
 
+## Credits
 
+Corona Cannon was developed by Sergey Lerg.
 
-
-
-
-
-
-
-
-# Objetivos especificos 
-
-Usar o canhão par destruir os alvos que estão 
-localizados no cenario e com isso passar de fase.
-
-# Regras do jogo 
-
-Cada fase terá o seu grau de dificuldade e uma certa quantidade de chances 
-caso nao consiga destruir os alvos com a chances disponiveis a fase atual 
-será reniciada e caso consiga destruir os alvos com a chances disponiveis,
-prosseguirá para proxima fase.
-
-# Fim do jogo
-
-O jogo termina quando é concluido todas as fases.
-
-
+## License
+The MIT License
